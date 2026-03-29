@@ -4,4 +4,4 @@ A website for a ladies' PG (Paying Guest) facility in Mangaluru. This website pr
 
 ## 🔗 Live Website
 
-👉 **[Visit the Website](https://.vercel.app/)**
+👉 **[Visit the Website](https://ushaladiespg.vercel.app/)**
